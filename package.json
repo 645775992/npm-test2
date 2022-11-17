@@ -10,10 +10,7 @@
   },
   "private": true,
   "dependencies": {
-    "@uppy/companion": "~2.0.0-alpha.0",
-    "@commercial/subtext": "^5.1.1",
-    "@xmldom/xmldom": "*0.8.0",
-    "@fastify/websocket": "5.0.0"
+    
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^14.2.8",
